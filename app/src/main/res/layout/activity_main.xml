@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:id="@+id/main_container"
-    tools:context=".presentation.MainActivity">
+    tools:context=".presentation.MainActivity"
+    android:name="com.chugunov.composition.presentation.WelcomeFragment">
 
 </androidx.fragment.app.FragmentContainerView>
